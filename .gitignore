@@ -263,5 +263,9 @@ paket-files/
 __pycache__/
 *.pyc
 
-# VS Code
-.vscode/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
